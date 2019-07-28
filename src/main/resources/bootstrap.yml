@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: servicetemplate
+  cloud:
+    config:
+      uri: http://localhost:8981
+server:
+  port: 8982
+  servlet:
+    context-path: /servicetemplate     
