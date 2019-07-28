@@ -6,5 +6,5 @@ spring:
       uri: http://localhost:8981
 server:
   port: 8982
-  servlet:
-    context-path: /servicetemplate     
+#  servlet:
+#    context-path: /servicetemplate     
